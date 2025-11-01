@@ -1,5 +1,5 @@
 # Password Strength Checker
-![Screenshot of the program running](screenshot.png)
+
 This is a simple command-line tool built in Python to assess the strength of a user-provided password. It analyzes the password based on several security criteria and provides immediate feedback.
 
 ## Features
